@@ -1,0 +1,10 @@
+streamlit==1.32.0
+opencv-python-headless==4.9.0.80
+pandas==2.2.2
+numpy==1.26.4
+ultralytics==8.2.0
+plotly==5.22.0
+imageio==2.34.0
+scipy==1.13.0
+scikit-learn==1.4.1
+gdown==5.2.0  # Optional, for downloading yolov8x.pt
